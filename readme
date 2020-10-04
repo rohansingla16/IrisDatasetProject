@@ -3,5 +3,5 @@ Hi, Thank you for visiting my Github Repository!
 The Iris Dataset contains information about floweres including there dimensions and species.
 The input parameters given to us are Sepal Length, Sepal Width, Petal length and Petal Width of Flower. 
 Based on these input parameters I build a Logistic Regression Model which classifies the dataset into either of two species
-The Logistic Regression Classifier was trained on a training dataset and then performed prediction for test data set to classify. The Logistic Regression
+The Logistic Regression Classifier was trained on a training dataset and then performed prediction for test data set to classify the species. The Logistic Regression
 gives an accuracy of > 90%
